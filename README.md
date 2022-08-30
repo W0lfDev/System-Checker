@@ -1,6 +1,8 @@
 ﻿
 # How to use?
 
+Get it from here: https://github.com/W0lfDev/System-Checker/releases/tag/release
+
 When you launch SystemChecker.exe you will be greeted by an editor.
 
 After you configure your editor settings you have to lock the checker and add it and the .txt file that it comes with (checkerconf.txt) to your app’s folder (The same where the executable of your app is).
