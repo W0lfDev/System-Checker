@@ -1,0 +1,15 @@
+D:\System-Checker\SystemChecker\bin\Debug\net7.0\SystemChecker.exe
+D:\System-Checker\SystemChecker\bin\Debug\net7.0\SystemChecker.deps.json
+D:\System-Checker\SystemChecker\bin\Debug\net7.0\SystemChecker.runtimeconfig.json
+D:\System-Checker\SystemChecker\bin\Debug\net7.0\SystemChecker.dll
+D:\System-Checker\SystemChecker\bin\Debug\net7.0\SystemChecker.pdb
+D:\System-Checker\SystemChecker\obj\Debug\net7.0\SystemChecker.csproj.AssemblyReference.cache
+D:\System-Checker\SystemChecker\obj\Debug\net7.0\SystemChecker.GeneratedMSBuildEditorConfig.editorconfig
+D:\System-Checker\SystemChecker\obj\Debug\net7.0\SystemChecker.AssemblyInfoInputs.cache
+D:\System-Checker\SystemChecker\obj\Debug\net7.0\SystemChecker.AssemblyInfo.cs
+D:\System-Checker\SystemChecker\obj\Debug\net7.0\SystemChecker.csproj.CoreCompileInputs.cache
+D:\System-Checker\SystemChecker\obj\Debug\net7.0\SystemChecker.dll
+D:\System-Checker\SystemChecker\obj\Debug\net7.0\refint\SystemChecker.dll
+D:\System-Checker\SystemChecker\obj\Debug\net7.0\SystemChecker.pdb
+D:\System-Checker\SystemChecker\obj\Debug\net7.0\SystemChecker.genruntimeconfig.cache
+D:\System-Checker\SystemChecker\obj\Debug\net7.0\ref\SystemChecker.dll

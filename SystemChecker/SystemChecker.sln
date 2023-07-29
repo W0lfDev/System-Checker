@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemChecker", "SystemChecker.csproj", "{DD8F9999-7164-4C48-BE95-BE36AAE227D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD8F9999-7164-4C48-BE95-BE36AAE227D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8F9999-7164-4C48-BE95-BE36AAE227D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8F9999-7164-4C48-BE95-BE36AAE227D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8F9999-7164-4C48-BE95-BE36AAE227D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB756101-01A2-43BD-9242-013BF8623A64}
+	EndGlobalSection
+EndGlobal
